@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "O Alquimista",
+    "bookUrl": "https://example.com/o-alquimista",
+    "imageUrl": "https://example.com/o-alquimista.jpg",
+    "author": "Paulo Coelho"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "bookUrl": "https://example.com/1984",
+    "imageUrl": "https://example.com/1984.jpg",
+    "author": "George Orwell"
+  }
+]
