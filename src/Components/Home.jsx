@@ -10,7 +10,6 @@ const Home = () => {
   const [query, setQuery] = useState("");
 
   useEffect(() => {
-    // Simula a fetch dos dados do arquivo JSON
     const fetchBooks = async () => {
       try {
         // Substitua pelo caminho correto do seu JSON
