@@ -59,7 +59,7 @@ const Catalog = () => {
       <div className="book-list">
         {searchResults.map(book => (
           <div key={book.id} className="book-item">
-            <h2>{book.title}</h2>
+            <h2 className='titleBooks'>{book.title}</h2>
             <a href={book.bookUrl} target="_blank" rel="noopener noreferrer">
               <img src={book.imageUrl} alt={book.title} style={{ width: '200px', height: '300px' }} />
             </a>

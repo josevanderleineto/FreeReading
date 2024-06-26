@@ -1,16 +1,37 @@
 [
   {
     "id": 1,
-    "title": "O Alquimista",
-    "bookUrl": "https://example.com/o-alquimista",
-    "imageUrl": "https://example.com/o-alquimista.jpg",
+    "title": "As contribuições de ranganathan para a biblioteconomia: reflexões e desafios",
+    "bookUrl": "https://firebasestorage.googleapis.com/v0/b/free-reading-9595e.appspot.com/o/Ci%C3%AAncia%20da%20Informa%C3%A7%C3%A3o%2Fas-contribuicoes-de-raganathan.pdf?alt=media&token=15acf98b-5340-49d9-9434-6257d662672f",
+    "imageUrl": "https://imgs.search.brave.com/_NMOBioiwCvDoREWVMzwO4Guvk-Yth2h1fw02vN6Pig/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9maWxl/cy5wYXNzZWlkaXJl/dG8uY29tL1RodW1i/bmFpbC9lMzdlYmY0/Zi1kM2FmLTRlNDIt/OWEwZi1lMmIzYzMy/YmEwODcvMjEwLzEu/anBn",
     "author": "Paulo Coelho"
   },
   {
     "id": 2,
-    "title": "1984",
-    "bookUrl": "https://example.com/1984",
-    "imageUrl": "https://example.com/1984.jpg",
-    "author": "George Orwell"
+    "title": "As contribuições de paul otlet para a biblioteconomia",
+    "bookUrl": "https://firebasestorage.googleapis.com/v0/b/free-reading-9595e.appspot.com/o/Ci%C3%AAncia%20da%20Informa%C3%A7%C3%A3o%2Fascontribuicoes-de-poul-outlet.pdf?alt=media&token=f6e23d41-ebd8-4d72-9a7f-dcd5dbdf4043",
+    "imageUrl": "https://cip.brapci.inf.br//img/c/00/22/37/76/image.jpg",
+    "author": "Poul Otlet"
+  },
+  {
+    "id": 3,
+    "title": "Classification decimal dewey - CDD comentada",
+    "bookUrl": "https://firebasestorage.googleapis.com/v0/b/free-reading-9595e.appspot.com/o/Ci%C3%AAncia%20da%20Informa%C3%A7%C3%A3o%2Fascontribuicoes-de-poul-outlet.pdf?alt=media&token=f6e23d41-ebd8-4d72-9a7f-dcd5dbdf4043",
+    "imageUrl": "https://imgs.search.brave.com/v-o4MUXOi8HKTTR7T8PghCwU_y51MwkIUa9tl4MZ8ds/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDF3eDVtdFdFRkwu/anBn",
+    "author": "Dewey"
+  },
+  {
+    "id": 4,
+    "title": "Saberes informacionais na América Latina.",
+    "bookUrl": "https://firebasestorage.googleapis.com/v0/b/free-reading-9595e.appspot.com/o/Ci%C3%AAncia%20da%20Informa%C3%A7%C3%A3o%2Fsaberes-informacionas.pdf?alt=media&token=48d4e831-5b06-4917-8cc9-e75df770e289",
+    "imageUrl": "https://cip.brapci.inf.br//img/c/00/25/44/74/image.png",
+    "author": "Jussara Borges de Lima (org) | Thiago Henrique Bragato Barros (org) | Rene Faustino Gabriel Junior (org) |"
+  },
+  {
+    "id": 5,
+    "title": "Dicionario de Bibliotenomia e Arquivologia",
+    "bookUrl": "https://firebasestorage.googleapis.com/v0/b/free-reading-9595e.appspot.com/o/Ci%C3%AAncia%20da%20Informa%C3%A7%C3%A3o%2Fdicionario-de-biblitenomia-e-arquivologia.pdf?alt=media&token=57ab4285-080c-4e52-b3e6-db6446316e44",
+    "imageUrl": "https://imgs.search.brave.com/cDorxYHEG6jTD-kx8E0E5bfub3xZftBF8kypYx-mjRA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9iaWJs/aW90ZWNhLmNhZGUu/Z292LmJyL2NnaS1i/aW4va29oYS9vcGFj/LWltYWdlLnBsP3Ro/dW1ibmFpbD0xJmlt/YWdlbnVtYmVyPTc",
+    "author": "Murilo Bastos da Cunha, Cordélia Robalinho de Oliveira Cavalcanti"
   }
 ]
