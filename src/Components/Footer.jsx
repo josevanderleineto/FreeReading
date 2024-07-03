@@ -1,5 +1,10 @@
+// eslint-disable-next-line no-unused-vars
 import React, { useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { FaInstagram } from "react-icons/fa";
+import { FaTelegram } from "react-icons/fa";
+
+
 
 const Footer = () => {
   const [currentYear, setCurrentYear] = useState(new Date().getFullYear());
@@ -24,20 +29,13 @@ const Footer = () => {
           </div>
 
           <div className="col-md-3 mb-4">
-            <h5 className="text-uppercase">Links Úteis</h5>
             <ul className="list-unstyled mb-0">
               <li>
-                <a href="#!" className="text-dark">Início</a>
+                <a href="#!" className="text-dark"><FaInstagram className='fs-1'/></a>
               </li>
               <li>
-                <a href="#!" className="text-dark">Catálogo</a>
-              </li>
-              <li>
-                <a href="#!" className="text-dark">Categorias</a>
-              </li>
-              <li>
-                <a href="#!" className="text-dark">Contato</a>
-              </li>
+                <a href="#!" className="text-dark"><FaTelegram className='fs-1'/></a>
+              </li>             
             </ul>
           </div>
         </div>
